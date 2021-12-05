@@ -19,7 +19,7 @@ public class ItemKeranjang {
         this.note = note;
     }
 
-    /*  sama seperti membuat constructor, ini adalah getter and setter 
+    /*  ini adalah getter and setter 
         nah gunanya getter dan setter ini untuk mengambil data dan mengisi data ke dalam object atau class
         cara nya sama
         klik kanan>Java Code generators > generate getter and setter*/
